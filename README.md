@@ -1,2 +1,1 @@
-https://sites.google.com/view/overworl-demo/versions/github?authuser=0
-:)
+https://sites.google.com/view/overworl-demo/versions?authuser=0
